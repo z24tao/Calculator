@@ -1,8 +1,8 @@
-package main
+package addition
 
 import (
-	"calculator/calc"
-	"calculator/data"
+	"calculator/addition/calc"
+	"calculator/addition/data"
 	"fmt"
 	"math/rand"
 )
